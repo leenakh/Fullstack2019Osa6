@@ -1,0 +1,19 @@
+body {
+    font-family: "Nunito";
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+button {
+    font-family: "Nunito";
+    background-color: gainsboro;
+    outline: none;
+    border-style: solid;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px lightgray;
+    border-color: gainsboro
+}
+
+.notification {
+    box-shadow: 2px 2px 2px cadetblue;
+}
